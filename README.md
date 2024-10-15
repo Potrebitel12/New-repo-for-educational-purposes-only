@@ -3,3 +3,5 @@
 Repo for lecture 11. Git &amp; GitHub @SoftUni QA program, 2024
 
 Also we will add some files in it.
+
+Also created a new temporary branch... at last!
